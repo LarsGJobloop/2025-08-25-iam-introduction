@@ -1,3 +1,13 @@
+## Connection
+
+- Roadside Vehicle Check
+- Birth Certificate
+- Vehicle Identity
+
+- Hwo decides
+- Who enforces
+- How is it verified
+
 ## Command Reference
 
 - Generate a private key (identity)
