@@ -4,7 +4,7 @@
 - Birth Certificate
 - Vehicle Identity
 
-- Hwo decides
+- Who decides
 - Who enforces
 - How is it verified
 
