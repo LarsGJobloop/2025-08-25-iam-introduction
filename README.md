@@ -1,3 +1,10 @@
+> [!CAUTION]
+>**Roots of Trust**
+>
+> Cryptographic identities are not to be taken lightly. Possession of a private key means **you can act fully in the identity’s stead**. Whether that’s your personal identity or one delegated to you on behalf of others.
+>
+> Unlike physical documents (e.g., passports or vehicle registrations), **roots of trust are even harder to exchange or revoke**. Once compromised, they often require replacing entire chains of trust, not just reissuing a card or certificate. Treat them with extreme care.
+
 ## Connection
 
 - **Identity Proofing** → *Birth Certificate*  
