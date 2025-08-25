@@ -46,6 +46,10 @@
   base64 signature.bin > signature.b64
   ```
 
+## Sketches
+
+- ![Sketches](/docs/iam-introduction.png)
+
 ## References
 
 - [JWT Builder](http://jwtbuilder.jamiekurtz.com/): Simple site for exploring how JWTs are constructed. Mind these are not signed by any authority, and hence rather useless.
