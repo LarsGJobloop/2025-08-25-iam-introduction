@@ -1,12 +1,22 @@
 ## Connection
 
-- Roadside Vehicle Check
-- Birth Certificate
-- Vehicle Identity
+- **Identity Proofing** → *Birth Certificate*  
+  Establishes that you exist; initial root of trust.
 
-- Who decides
-- Who enforces
-- How is it verified
+- **Ownership Verification** → *Vehicle Identity*  
+  Confirms this specific "thing" is yours.
+
+- **Enforcement / Control** → *Roadside Vehicle Check*  
+  Authorities validate documents and ensure compliance.
+
+- **Decision Authority** → *Who decides?*  
+  Defines who grants or denies access.
+
+- **Execution / Enforcement** → *Who enforces?*  
+  The party applying the decision in practice.
+
+- **Verification Mechanism** → *How is it verified?*  
+  The method of checking (documents, signatures, cryptography).
 
 ## Command Reference
 
@@ -32,7 +42,7 @@
 
   ```sh
   openssl dgst -sha256 -sign private.pem -out signature.bin message.txt
-  ````
+  ```
 
 - Verify the signature matches the file (try to rerun after changing the text)
 
